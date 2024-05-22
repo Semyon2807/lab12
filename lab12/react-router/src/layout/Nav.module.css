@@ -1,0 +1,27 @@
+.i0 {
+    width: 150px; 
+    height: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.b1 {
+    background-color:  #ffb900;
+    width: 200px; 
+    margin-left: 100px;
+    margin-right: 10px;
+}
+
+.b2 {
+    width: 200px; 
+    background-color:  #2a025f;
+}
+
+.L {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+button {
+    
+}
